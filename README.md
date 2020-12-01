@@ -29,9 +29,7 @@ $ make
 $ make check 
 $ sudo make install 
 
-4. then you go to se/trunk, and you make a target dir for se: 
-$ sudo mkdir /opt/se-1.2 
-or 
+4. then you go to se/trunk, and you make a target dir for se:  
 $sudo mkdir /opt/se-1.2_gfortran 
 
 5. finally compile and install se: 
