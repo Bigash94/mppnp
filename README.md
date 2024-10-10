@@ -7,7 +7,7 @@ $cd tmp
 
 2. get hdf5: 
 
-$ wget http://www.hdfgroup.org/ftp/HDF5/prev-releases/hdf5-1.8.3/src/hdf5-1.8.3.tar.gz 
+$ wget https://support.hdfgroup.org/archive/support/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.3/src/hdf5-1.8.3.tar.gz
 $ tar -xzvf hdf5-1.8.3.tar.gz 
 
 3. make sure you have a target directory. I recommend using 
